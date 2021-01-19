@@ -349,7 +349,7 @@ nav{
 }
 
 ion-icon{
-  font-size: 30px;
+  font-size: 1.875em;
   color:var(--white);  
 }
 
@@ -382,9 +382,6 @@ a ion-icon:hover{ color: var(--secondary-color); }
     margin: 0 auto 10px;
   }
   .text { font-size: 1.5em; }
-
-  /* FOOTER */
-  ion-icon{ font-size: 1.875em; }
 }
 
 /* Small Phones to Small Tablets: 526px - 767px */
